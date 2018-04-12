@@ -1,0 +1,9 @@
+c:\users\taha tariq\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\taha tariq\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\taha tariq\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\taha tariq\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+c:\users\taha tariq\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\taha tariq\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\TAHA TARIQ\Desktop\IPT ASSIGNMENT\Q1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\TAHA TARIQ\Desktop\IPT ASSIGNMENT\Q1\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\TAHA TARIQ\Desktop\IPT ASSIGNMENT\Q1\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

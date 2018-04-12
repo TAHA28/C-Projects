@@ -1,0 +1,3 @@
+-client - server application using sockets API in C#.
+
+-The Server application has support for at least five clients simultaneously

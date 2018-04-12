@@ -1,0 +1,6 @@
+c:\users\taha tariq\documents\visual studio 2015\Projects\ConsoleApplication4\CLIENT\bin\Debug\CLIENT.exe.config
+c:\users\taha tariq\documents\visual studio 2015\Projects\ConsoleApplication4\CLIENT\bin\Debug\CLIENT.exe
+c:\users\taha tariq\documents\visual studio 2015\Projects\ConsoleApplication4\CLIENT\bin\Debug\CLIENT.pdb
+c:\users\taha tariq\documents\visual studio 2015\Projects\ConsoleApplication4\CLIENT\obj\Debug\CLIENT.csprojResolveAssemblyReference.cache
+c:\users\taha tariq\documents\visual studio 2015\Projects\ConsoleApplication4\CLIENT\obj\Debug\CLIENT.exe
+c:\users\taha tariq\documents\visual studio 2015\Projects\ConsoleApplication4\CLIENT\obj\Debug\CLIENT.pdb
