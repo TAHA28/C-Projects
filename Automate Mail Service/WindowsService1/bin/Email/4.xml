@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<EmailMessage>
+
+<To>   k142224@nu.edu.pk  </To>
+
+<Subject>    Attention 4 !!   </Subject>
+
+<Message>This method requires at least four bytes from the data stream in order to begin parsing. If fewer than four bytes are returned and there is no more data in the stream, the method will fail. If there is more data in the stream, the method will block parsing until receipt of the fourth byte.</Message>
+
+
+</EmailMessage>

@@ -1,0 +1,14 @@
+c:\users\taha tariq\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+c:\users\taha tariq\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+c:\users\taha tariq\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+c:\users\taha tariq\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+c:\users\taha tariq\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+c:\users\taha tariq\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+c:\users\taha tariq\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+c:\users\taha tariq\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+C:\Users\TAHA TARIQ\Desktop\IPT ASSIGNMENT\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\TAHA TARIQ\Desktop\IPT ASSIGNMENT\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\TAHA TARIQ\Desktop\IPT ASSIGNMENT\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\TAHA TARIQ\Desktop\IPT ASSIGNMENT\Q2_K142224\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\TAHA TARIQ\Desktop\IPT ASSIGNMENT\Q2_K142224\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\TAHA TARIQ\Desktop\IPT ASSIGNMENT\Q2_K142224\WindowsService1\obj\Debug\WindowsService1.pdb

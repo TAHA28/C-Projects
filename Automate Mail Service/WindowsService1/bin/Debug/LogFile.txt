@@ -1,0 +1,6 @@
+3/20/2018 11:04:54 AM: Daily Reporting service started
+3/20/2018 11:05:04 AM: xml wala
+3/20/2018 11:05:04 AM: Email sent successfully !!!
+3/20/2018 11:05:14 AM: got interval::34065249.2453
+3/20/2018 11:05:14 AM: got elapsed
+3/20/2018 11:30:25 AM: Daily Reporting service stopped
