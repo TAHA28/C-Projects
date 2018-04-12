@@ -1,0 +1,11 @@
+c:\users\taha tariq\documents\visual studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe.config
+C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.pdb
+C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\obj\Debug\Q3_K142224.csprojResolveAssemblyReference.cache
+C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\obj\Debug\Q3_K142224.ProjectInstaller.resources
+C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\obj\Debug\Q3_K142224.csproj.GenerateResource.Cache
+C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\obj\Debug\Q3_K142224.exe
+C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\obj\Debug\Q3_K142224.pdb
+C:\Users\TAHA TARIQ\Desktop\Lab 2\K142224\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe.config
+C:\Users\TAHA TARIQ\Desktop\Lab 2\K142224\Q3_K142224\Q3_K142224\obj\Debug\Q3_K142224.exe
+C:\Users\TAHA TARIQ\Desktop\Lab 2\K142224\Q3_K142224\Q3_K142224\obj\Debug\Q3_K142224.pdb

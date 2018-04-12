@@ -1,0 +1,306 @@
+﻿Installing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Installing service DEMO_RSS...
+Service DEMO_RSS has been successfully installed.
+Creating EventLog source DEMO_RSS in log Application...
+Committing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+Service DEMO_RSS is being removed from the system...
+Service DEMO_RSS was successfully removed from the system.
+Attempt to stop service DEMO_RSS.
+Installing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Installing service DEMO_RSS...
+Service DEMO_RSS has been successfully installed.
+Creating EventLog source DEMO_RSS in log Application...
+Committing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Installing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Installing service DEMO_RSS...
+Creating EventLog source DEMO_RSS in log Application...
+Rolling back assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Restoring event log to previous state for source DEMO_RSS.
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Installing service DEMO_RSS...
+Creating EventLog source DEMO_RSS in log Application...
+Rolling back assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Restoring event log to previous state for source DEMO_RSS.
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+Service DEMO_RSS is being removed from the system...
+Service DEMO_RSS was successfully removed from the system.
+Installing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Installing service DEMO_RSS...
+Service DEMO_RSS has been successfully installed.
+Creating EventLog source DEMO_RSS in log Application...
+Committing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+Service DEMO_RSS is being removed from the system...
+Service DEMO_RSS was successfully removed from the system.
+Installing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Installing service DEMO_RSS...
+Service DEMO_RSS has been successfully installed.
+Creating EventLog source DEMO_RSS in log Application...
+Committing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+Service DEMO_RSS is being removed from the system...
+Service DEMO_RSS was successfully removed from the system.
+Installing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Installing service DEMO_RSS...
+Service DEMO_RSS has been successfully installed.
+Creating EventLog source DEMO_RSS in log Application...
+Committing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+Service DEMO_RSS is being removed from the system...
+Service DEMO_RSS was successfully removed from the system.
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+Warning: The source DEMO_RSS is not registered on the local machine.
+Service DEMO_RSS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Installing service DEMO_RSS...
+Service DEMO_RSS has been successfully installed.
+Creating EventLog source DEMO_RSS in log Application...
+Committing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+Service DEMO_RSS is being removed from the system...
+Service DEMO_RSS was successfully removed from the system.
+Installing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Installing service DEMO_RSS...
+Service DEMO_RSS has been successfully installed.
+Creating EventLog source DEMO_RSS in log Application...
+Committing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+Service DEMO_RSS is being removed from the system...
+Service DEMO_RSS was successfully removed from the system.
+Installing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Installing service DEMO_RSS...
+Service DEMO_RSS has been successfully installed.
+Creating EventLog source DEMO_RSS in log Application...
+Committing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+Service DEMO_RSS is being removed from the system...
+Service DEMO_RSS was successfully removed from the system.
+Installing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Installing service DEMO_RSS...
+Service DEMO_RSS has been successfully installed.
+Creating EventLog source DEMO_RSS in log Application...
+Committing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+Service DEMO_RSS is being removed from the system...
+Service DEMO_RSS was successfully removed from the system.
+Installing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Installing service DEMO_RSS...
+Service DEMO_RSS has been successfully installed.
+Creating EventLog source DEMO_RSS in log Application...
+Committing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+Service DEMO_RSS is being removed from the system...
+Service DEMO_RSS was successfully removed from the system.
+Attempt to stop service DEMO_RSS.
+Installing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Installing service DEMO_RSS...
+Service DEMO_RSS has been successfully installed.
+Creating EventLog source DEMO_RSS in log Application...
+Committing assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Uninstalling assembly 'C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.InstallLog
+   assemblypath = C:\Users\TAHA TARIQ\Documents\Visual Studio 2015\Projects\Q3_K142224\Q3_K142224\bin\Debug\Q3_K142224.exe
+Removing EventLog source DEMO_RSS.
+Service DEMO_RSS is being removed from the system...
+Service DEMO_RSS was successfully removed from the system.
